@@ -1,35 +1,42 @@
-# NexT
+## 说明
 
-> 精于心，简于形
+此博客 fork 自 [Azeril](http://azeril.me/)，感谢。
 
-NexT 是由 [Hexo NexT](https://github.com/iissnan/hexo-theme-next) 移植而来的 Jekyll 主题。<!--commit: f951075d9b739d26b42472431995fa68d08796aa-->
+## 读立写生
 
-<a href="http://simpleyyt.github.io/jekyll-theme-next/" target="_blank">在线预览 Preview</a> | <a href="http://simpleyyt.com" target="_blank">Yitao's Blog</a> | <a href="http://theme-next.simpleyyt.com" target="_blank">NexT 使用文档</a> |  [English Documentation](README.en.md)
+我是陈素封，博客：[cnfeat.com](cnfeat.com)
 
-[![Join the chat at https://gitter.im/simpleyyt/jekyll-theme-next](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jekyll-theme-next/lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+每天千字践行者，践行时间：2014年02月10日至2014年02月23日，感谢这段经历，让我成为了现在的我。
 
-![NexT Schemes](http://iissnan.com/nexus/next/next-schemes.jpg)
+现在研习 **认知写作学** 。
 
-
-## 浏览器支持 Browser support
-
-![Browser support](http://iissnan.com/nexus/next/browser-support.png)
+## 坚信
 
 
-## 贡献 Contributing
-
-欢迎提交问题与需求，修复代码。
-
-
-## 开发 Development
-
-NexT 主旨在于简洁优雅且易于使用，所以首先要尽量确保 NexT 的简洁易用性。
-
-NexT is built for easily use with elegant appearance. First things first, always keep things simple.
+- 元认知乃一切之源
+- 学苟知本，六经皆我注脚 
+- 一切技能皆可习得，包括写作
+- 「持续」并不是坚持，写就是最好的回报
 
 
-## 捐赠
+### Changelog
 
-支付宝捐赠链接还是要有的，万一真的有人捐呢。
 
-![支付宝扫码捐赠](http://p1.bpimg.com/567571/9a4a158daee8aa69.png)
+
+
+- 20160719 
+	+ 改动网页文字宽度
+		+ post.html 39
+		+ col-lg-7 col-lg-offset-3 col-md-8 col-md-offset-2 post-container
+	+ about 链接颜色
+
+- 20160717 博客优化
+	- 增加 Google Analytics
+	* 修订 Gavatar 地址
+	* 增加作品集 works
+	* 缩短首页摘要为 70 字
+	* 多说替换成 disqus
+	* 置换字体
+
+
+
