@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "works"
-description: "知之真切笃实处即是行，行之明觉精察处即是知 "
+description: "实践出真知"
 header-img: "img/semantic.jpg"
 ---
 
@@ -11,7 +11,7 @@ header-img: "img/semantic.jpg"
 </center>
 
 
-## 故事与人生
+## 人生与故事
 
 - 说说我自己的故事：[给过去自己的一封信](http://www.cnfeat.com/blog/2017/03/03/a-letter-to-myself-in-that-past/)
 - 说说我的写作故事：[如何正确地练习写作](http://www.jianshu.com/p/2621444b619d)
