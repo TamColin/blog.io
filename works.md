@@ -57,26 +57,7 @@ header-img: "img/semantic.jpg"
 - [司马贺一生研究学习的秘密武器](http://www.cnfeat.com/blog/2016/12/13/BestVSGood/)
 - [硅谷钢铁侠 Elon Musk 练就超强学习能力的秘密](http://www.cnfeat.com/blog/2017/04/26/HowElonMuskLearnsFasterAndBetterThanEveryoneElse/)
 
-## 阅读与创作
 
-- [高阶学习者的读书法](http://www.cnfeat.com/blog/2017/07/26/AdvancedLearnerReadMethod/)
-- [《管理行为》：像堂吉诃德一样重建管理概念](http://www.cnfeat.com/blog/2017/07/22/Simon-AdministrativeBehavior/)
-- [《人类的认知》：高阶学习者如何用符号思考？](http://www.cnfeat.com/blog/2017/07/19/HumanCognition/)
-- [《畅销的原理》：掌握这 10 条人性规律，你也有可能做出畅销世界的产品](http://www.cnfeat.com/blog/2017/05/24/Biz10Rules/)
-- [《风格与创造力》 ：如何用认知科学重新定义设计？](http://www.cnfeat.com/blog/2017/08/25/StyleCreativityDesign/)
-- [《架设人与计算机的桥梁》：西蒙的符号系统与思维模型](http://www.cnfeat.com/blog/2017/08/02/SimonSystemMosel/)
-- [《领导梯队》：普通人学习管理的第一本书](http://www.cnfeat.com/blog/2017/07/06/LeadershipPipeline/)
-
-## 工作与态度
-
-- [这 5 个高效工作习惯我正在用，推荐给你](http://www.cnfeat.com/blog/2017/05/04/FiveHabbits/)
-- [一个没有做出过突出贡献的人对这个社会有什么价值？](http://www.cnfeat.com/blog/2017/06/03/TheMoonAndSixpence/)
-- [为什么每个人该写一封致股东信？](http://www.cnfeat.com/blog/2017/07/12/LetterToShareholders/)
-- [靠谱的人生指南：万花筒策略 ](http://www.cnfeat.com/blog/2016/12/01/KaleidoscopeStrategy/)
-- [具身认知：身体不是大脑的外衣，而是大脑的肉体本身](http://www.cnfeat.com/blog/2016/07/31/Embodied-Cognition/)
-- [如何正确地使用执行意图? ](http://www.cnfeat.com/blog/2015/11/21/if-then/)
-- [如何写好离职工作交接文档？](http://www.cnfeat.com/blog/2017/06/16/HandoverDoc/)
-- [RSS 的生命力：分享100个订阅源](http://www.cnfeat.com/blog/2016/01/29/100Subscription/)
 
 
 ## 自愿付费
